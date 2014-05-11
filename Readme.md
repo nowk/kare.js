@@ -1,6 +1,6 @@
 # Kare
 
-Just an experiment in currying. Not to be confused with [Kara](http://en.wikipedia.org/wiki/Kara_(band).
+Just an experiment in currying. Not to be confused with [Kara](http://en.wikipedia.org/wiki/Kara_(band)).
 
 # Install
 
