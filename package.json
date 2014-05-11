@@ -1,0 +1,27 @@
+{
+  "name": "kare",
+  "version": "0.0.0",
+  "description": "Simple curry",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nowk/kare.js.git"
+  },
+  "keywords": [
+    "Curry",
+    "kare",
+    "rice"
+  ],
+  "author": "Yung Hwa Kwon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nowk/kare.js/issues"
+  },
+  "homepage": "https://github.com/nowk/kare.js",
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
