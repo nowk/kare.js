@@ -23,7 +23,7 @@ describe('kare', function() {
   });
 
   it("can do this...", function() {
-    var callback = kare(fn, null, undefined, 10, null, 5);
+    var callback = kare(fn, undefined, undefined, 10, undefined, 5);
 
     function fn(cb, a, b, c, d, e, f) {
       cb(a, b, c, d, e, f);

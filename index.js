@@ -22,7 +22,7 @@ function kare(fn) {
     var i = 0;
     var len = curried.length;
     for(; i<len; i++) {
-      if (null === curried[i] || 'undefined' === typeof curried[i]) {
+      if ('undefined' === typeof curried[i]) {
         curried[i] = args[0];
         args.shift();
       }
